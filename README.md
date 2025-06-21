@@ -67,7 +67,7 @@
     <tr>
         <td>第三期</td>
         <td>我从前不喜欢花</td>
-        <td><a href="hhttps://mp.weixin.qq.com/s/snNiTnMQTmBky8RDexBvbw">照片故事｜第三期｜我从前不喜欢花</a></td>
+        <td><a href="https://mp.weixin.qq.com/s/snNiTnMQTmBky8RDexBvbw">照片故事｜第三期｜我从前不喜欢花</a></td>
         <td><a href="/articles/照片故事/照片故事｜第三期｜我从前不喜欢花.md">照片故事｜第三期｜我从前不喜欢花</td>
         <td>2025-06-14</td>
     </tr>
