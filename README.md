@@ -21,7 +21,7 @@
         <td><strong>日期</td>
     </tr>
     <tr>
-        <td rowspan="3">北疆游记</td>
+        <td rowspan="4">北疆游记</td>
         <td>初遇乌鲁木齐</td>
         <td><a href="https://mp.weixin.qq.com/s/BgGHK3LAe43QNvQMH5ADLA">北疆游记｜初遇乌鲁木齐</a></td>
         <td><a href="/articles/游记/北疆游记/北疆游记｜初遇乌鲁木齐.md">北疆游记｜初遇乌鲁木齐</td>
@@ -38,6 +38,12 @@
         <td><a href="https://mp.weixin.qq.com/s/okOBh4Wzc49ZIWwvmT9uOg">特别篇｜北疆旅游攻略（跟团版）</a></td>
         <td><a href="/articles/游记/北疆游记/特别篇｜北疆旅游攻略（跟团版）.md">特别篇｜北疆旅游攻略（跟团版）</a></td>
         <td>2025-06-05</td>
+    </tr>
+    <tr>
+        <td>向北-喀纳斯！</td>
+        <td><a href="https://mp.weixin.qq.com/s/1qfruw8zetpGerjpzIeYKQ">北疆游记｜向北-喀纳斯！</a></td>
+        <td><a href="/articles/游记/北疆游记/北疆游记｜向北-喀纳斯！.md">北疆游记｜向北-喀纳斯！</a></td>
+        <td>2025-06-22</td>
     </tr>
 </table>
 
