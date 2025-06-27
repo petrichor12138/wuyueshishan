@@ -21,7 +21,7 @@
         <td><strong>日期</td>
     </tr>
     <tr>
-        <td rowspan="4">北疆游记</td>
+        <td rowspan="5">北疆游记</td>
         <td>初遇乌鲁木齐</td>
         <td><a href="https://mp.weixin.qq.com/s/BgGHK3LAe43QNvQMH5ADLA">北疆游记｜初遇乌鲁木齐</a></td>
         <td><a href="/articles/游记/北疆游记/北疆游记｜初遇乌鲁木齐.md">北疆游记｜初遇乌鲁木齐</td>
@@ -45,6 +45,12 @@
         <td><a href="/articles/游记/北疆游记/北疆游记｜向北-喀纳斯！.md">北疆游记｜向北-喀纳斯！</a></td>
         <td>2025-06-22</td>
     </tr>
+    <tr>
+        <td>心中的阿勒泰</td>
+        <td><a href="https://mp.weixin.qq.com/s/-CPDCADWnkj9jgoCvNqXTg">北疆游记｜心中的阿勒泰</a></td>
+        <td><a href="/articles/游记/北疆游记/北疆游记｜心中的阿勒泰.md">北疆游记｜心中的阿勒泰</a></td>
+        <td>2025-06-27</td>
+    </tr>
 </table>
 
 # 照片故事
@@ -66,7 +72,7 @@
     <tr>
         <td>第二期</td>
         <td>当我们相遇晚霞</td>
-        <td><a href="https://mp.weixin.qq.com/s/2lw4Bg9fI-gr5EKSvWaU8Q">照片故事｜第二期｜当我们相遇晚霞</a></td>
+        <td><a href="https://mp.weixin.qq.com/s/_b1RVATm6pVvt7Yr2CzMFA">照片故事｜第二期｜当我们相遇晚霞</a></td>
         <td><a href="/articles/照片故事/照片故事｜第二期｜当我们相遇晚霞.md">照片故事｜第二期｜当我们相遇晚霞</td>
         <td>2025-06-05</td>
     </tr>
