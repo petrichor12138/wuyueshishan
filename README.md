@@ -66,7 +66,7 @@
         <td><strong>主题</strong></td>
         <td><strong>公众号链接</strong></td>
         <td><strong>md文件链接</strong></td>
-        <td><strong>日期</td>
+        <td><strong>日期</strong></td>
     </tr>
     <tr>
         <td>第一期</td>
@@ -88,6 +88,13 @@
         <td><a href="https://mp.weixin.qq.com/s/snNiTnMQTmBky8RDexBvbw">照片故事｜第三期｜我从前不喜欢花</a></td>
         <td><a href="/articles/照片故事/照片故事｜第三期｜我从前不喜欢花.md">照片故事｜第三期｜我从前不喜欢花</td>
         <td>2025-06-14</td>
+    </tr>
+    <tr>
+        <td>第四期</td>
+        <td>爱在月升日落时</td>
+        <td><a href="https://mp.weixin.qq.com/s/3yWoO2nid0wEkmuaobE6Hg">照片故事｜第四期｜爱在月升日落时</a></td>
+        <td><a href="/articles/照片故事/照片故事｜第四期｜爱在月升日落时.md">照片故事｜第四期｜爱在月升日落时</a></td>
+        <td>2025-07-07</td>
     </tr>
 </table>
 
