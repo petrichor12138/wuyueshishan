@@ -21,7 +21,7 @@
         <td><strong>日期</td>
     </tr>
     <tr>
-        <td rowspan="7">北疆游记</td>
+        <td rowspan="8">北疆游记</td>
         <td>初遇乌鲁木齐</td>
         <td><a href="https://mp.weixin.qq.com/s/BgGHK3LAe43QNvQMH5ADLA">北疆游记｜初遇乌鲁木齐</a></td>
         <td><a href="/articles/游记/北疆游记/北疆游记｜初遇乌鲁木齐.md">北疆游记｜初遇乌鲁木齐</td>
@@ -62,6 +62,12 @@
         <td><a href="https://mp.weixin.qq.com/s/Fv32oS4yjyIdzWhqut7Qgg">北疆游记｜没白活-赛里木湖！</a></td>
         <td><a href="/articles/游记/北疆游记/北疆游记｜没白活-赛里木湖！.md">北疆游记｜没白活-赛里木湖！</a></td>
         <td>2025-07-12</td>
+    </tr>
+    <tr>
+        <td>空中草原那拉提</td>
+        <td><a href="https://mp.weixin.qq.com/s/0YdN9i_RBK7GHYvCiSxKwQ">北疆游记｜空中草原那拉提</a></td>
+        <td><a href="/articles/游记/北疆游记/北疆游记｜空中草原那拉提.md">北疆游记｜空中草原那拉提</a></td>
+        <td>2025-07-19</td>
     </tr>
 </table>
 
