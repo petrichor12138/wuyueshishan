@@ -116,6 +116,26 @@
     </tr>
 </table>
 
+# 影评
+<table>
+    <tr>
+        <td><strong>期数</strong></td>
+        <td><strong>主题</strong></td>
+        <td><strong>电影名称</strong></td>
+        <td><strong>公众号链接</strong></td>
+        <td><strong>md文件链接</strong></td>
+        <td><strong>日期</strong></td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>影评｜1｜近期热门电影横评</td>
+        <td>影评｜1｜近期热门电影横评</td>
+        <td><a href="https://mp.weixin.qq.com/s/1wqDvUoqnl7tbJTf0ZZgoQ">影评｜1｜近期热门电影横评</a></td>
+        <td><a href="/articles/影评/影评｜1｜近期热门电影横评.md">影评｜1｜近期热门电影横评</a></td>
+        <td>2025-08-09</td>
+    </tr>
+</table>
+
 
 # 一些念头
 之所以开办公众号，建立 github 仓库，是因为我总觉得应该写什么，将自己的一些念头以一种方式记录下来，即使肉体不在，灵魂也得以隽永。
