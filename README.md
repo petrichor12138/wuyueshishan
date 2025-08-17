@@ -129,10 +129,18 @@
     <tr>
         <td>1</td>
         <td>影评｜1｜近期热门电影横评</td>
-        <td>影评｜1｜近期热门电影横评</td>
+        <td>《名侦探柯南：独眼的残像》<br>《长安的荔枝》<br>《浪浪山小妖怪》</td>
         <td><a href="https://mp.weixin.qq.com/s/1wqDvUoqnl7tbJTf0ZZgoQ">影评｜1｜近期热门电影横评</a></td>
         <td><a href="/articles/影评/影评｜1｜近期热门电影横评.md">影评｜1｜近期热门电影横评</a></td>
         <td>2025-08-09</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>影评｜2｜捕风捉影</td>
+        <td>《捕风捉影》</td>
+        <td><a href="https://mp.weixin.qq.com/s/dPyCO_Hie0dXbkgHXiVoFA">影评｜2｜捕风捉影</a></td>
+        <td><a href="/articles/影评/影评｜2｜捕风捉影.md">影评｜2｜捕风捉影</a></td>
+        <td>2025-08-17</td>
     </tr>
 </table>
 
