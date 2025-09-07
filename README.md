@@ -116,6 +116,22 @@
     </tr>
 </table>
 
+# 散记
+<table>
+    <tr>
+        <td><strong>主题</strong></td>
+        <td><strong>公众号链接</strong></td>
+        <td><strong>md文件链接</strong></td>
+        <td><strong>日期</strong></td>
+    </tr>
+    <tr>
+        <td>大模型的昨天、今天与明天</td>
+        <td><a href="https://mp.weixin.qq.com/s/3KRTHrlEQ63-c9viXAZvDw">散记｜大模型的昨天、今天与明天</a></td>
+        <td><a href="/articles/散记/散记｜大模型的昨天、今天与明天.md">散记｜大模型的昨天、今天与明天</a></td>
+        <td>2025-09-07</td>
+    </tr>
+</table>
+
 # 影评
 <table>
     <tr>
