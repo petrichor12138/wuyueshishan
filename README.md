@@ -137,6 +137,12 @@
         <td><a href="/articles/散记/散记｜大模型的昨天、今天与明天.md">散记｜大模型的昨天、今天与明天</a></td>
         <td>2025-09-07</td>
     </tr>
+    <tr>
+        <td>就在日落以后，我们会再相见</td>
+        <td><a href="https://mp.weixin.qq.com/s/xH4jW6OkecjJ7Uvquy2M2w">散记｜就在日落以后，我们会再相见</a></td>
+        <td><a href="/articles/散记/散记｜就在日落以后，我们会再相见.md">散记｜就在日落以后，我们会再相见</a></td>
+        <td>2025-11-2</td>
+    </tr>
 </table>
 
 # 影评
