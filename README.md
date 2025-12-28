@@ -78,9 +78,15 @@
     <tr>
         <td rowspan="2">皖南游记</td>
         <td>皖南秋记｜叶落山空，一夜鱼龙舞</td>
-        <td><a href="https://mp.weixin.qq.com/s/tY1qNpSWkED9Oq-ECtieaw">皖南秋记｜叶落山空，一夜鱼龙舞</a></td>
-        <td><a href="/articles/游记/皖南游记/皖南秋记｜叶落山空，一夜鱼龙舞.md">皖南秋记｜叶落山空，一夜鱼龙舞</td>
+        <td><a href="https://mp.weixin.qq.com/s/tY1qNpSWkED9Oq-ECtieaw">叶落山空，一夜鱼龙舞</a></td>
+        <td><a href="/articles/游记/皖南游记/皖南秋记｜叶落山空，一夜鱼龙舞.md">叶落山空，一夜鱼龙舞</td>
         <td>2025-11-29</td>
+    </tr>
+    <tr>
+        <td>皖南秋记｜月尽天明，寻卢村晨雾</td>
+        <td><a href="https://mp.weixin.qq.com/s/8GBr1Y6SS3Vgj86KTJmoIA">月尽天明，寻卢村晨雾</a></td>
+        <td><a href="/articles/游记/皖南游记/皖南秋记｜月尽天明，寻卢村晨雾.md">月尽天明，寻卢村晨雾</td>
+        <td>2025-12-06</td>
     </tr>
 </table>
 
