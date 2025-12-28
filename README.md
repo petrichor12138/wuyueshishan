@@ -134,6 +134,13 @@
         <td><a href="/articles/照片故事/照片故事｜第五期｜天凉好个秋.md">照片故事｜第五期｜天凉好个秋</a></td>
         <td>2025-10-18</td>
     </tr>
+    <tr>
+        <td>第六期</td>
+        <td>胶片日记</td>
+        <td><a href="https://mp.weixin.qq.com/s/66VYcDEDDt_y4xfAgnpK1w">照片故事｜第六期｜胶片日记</a></td>
+        <td><a href="/articles/照片故事/照片故事｜第六期｜胶片日记.md">照片故事｜第六期｜胶片日记</a></td>
+        <td>2025-12-27</td>
+    </tr>
 </table>
 
 # 散记
