@@ -163,6 +163,13 @@
         <td><a href="/articles/照片故事/照片故事｜第八期｜时节新绿.md">照片故事｜第八期｜时节新绿</a></td>
         <td>2026-04-30</td>
     </tr>
+    <tr>
+        <td>第九期</td>
+        <td>与夏日作别</td>
+        <td><a href="https://mp.weixin.qq.com/s/gO2I1wOpqin-9UMJ5kSlHw">与夏日作别</a></td>
+        <td><a href="/articles/照片故事/与夏日作别.md">与夏日作别</a></td>
+        <td>2026-10-07</td>
+    </tr>
 </table>
 
 # 散记
